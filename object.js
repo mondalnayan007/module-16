@@ -9,7 +9,8 @@ const bottle = {
 }
 
 // console.log(bottle);
-console.log(bottle.color);
+// console.log(bottle.color);
+console.log(bottle['brand']);
 
 
 // const animal = {
